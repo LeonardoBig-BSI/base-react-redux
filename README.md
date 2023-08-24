@@ -60,4 +60,4 @@ npm start
 
 <br><br>
 
-# <img height="40" src="https://user-images.githubusercontent.com/84249945/219472556-367952b0-d430-495e-87b9-3f4611bdab21.png" /> Imagens
+# <img height="40" src="https://user-images.githubusercontent.com/84249945/219472556-367952b0-d430-495e-87b9-3f4611bdab21.png" /> Imagens![react-redux](https://github.com/LeonardoBig-BSI/base-react-redux/assets/84250017/13a2556e-1574-4384-9b1c-f7fdc11a53c2)
