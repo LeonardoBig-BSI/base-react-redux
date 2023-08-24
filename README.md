@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# <img height="40" src="https://user-images.githubusercontent.com/84249945/219458363-0df46081-95bd-4878-a828-541457541cbd.png"/> Sobre
+<p>Base para um projeto feito em React com Redux para estudos.</p>
+<p>Para entender melhor, o Redux basicamente tira a responsabilidade de cada um dos componentes de armazenar os estados, deixando tudo isso centralizado, sendo utilizado ao mesmo tempo por todos os componentes de forma compartilhada. Ele também roda em diferentes ambientes como servidor, cliente e nativo.</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>No entanto, o Redux se encontra na pasta "store" do projeto e controla o estado do componente Header. Ou seja, quando o usuário estiver na página de Login e clicar no botão "Enviar", o estado do componente Header vai ser alterado para "Clicado" e se o usuário clicar mais uma vez o estado vai ser alterado para "Não Clicado" e assim por diante.</p>
 
-## Available Scripts
+<br><br>
 
-In the project directory, you can run:
+# <img height="40" src="https://user-images.githubusercontent.com/84249945/219701953-d9aadf6c-065a-4176-8c21-3b13c497f752.png"/> Instalações
+<p>Para que o projeto funcione adequadamente, é necessário instalar algumas dependências como: </p>
 
-### `npm start`
+- Instalar o axios:
+```bash
+npm install axios
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Instalar o history:
+```bash
+npm install history
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Instalar prop-types:
+```bash
+npm install prop-types
+```
 
-### `npm test`
+- Instalar react-router-dom, react-icons, react-redux e react-toastify:
+```bash
+npm install react-router-dom react-icons react-redux react-toastify
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Instalar o redux, redux-persist e redux-saga:
+```bash
+npm install redux redux-persist redux-saga
+```
 
-### `npm run build`
+- Instalar o styled-components:
+```bash
+npm install styled-components
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br><br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# <img height="40" src="https://user-images.githubusercontent.com/84249945/219703721-e658e16f-fe7a-4a8b-bc90-22d9859c747c.png" /> Iniciar a aplicação
+<p>Para iniciar a aplicação react basta abrir o terminal e digitar o seguinte comando:</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+npm start
+```
 
-### `npm run eject`
+<br><br>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# <img height="40" src="https://user-images.githubusercontent.com/84249945/219471565-77dd520e-41ee-41f8-8fb9-0e259535a867.png"/> Tecnologias utilizadas
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,html,css" />
+  </a>
+</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<br><br>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# <img height="40" src="https://user-images.githubusercontent.com/84249945/219472556-367952b0-d430-495e-87b9-3f4611bdab21.png" /> Imagens
